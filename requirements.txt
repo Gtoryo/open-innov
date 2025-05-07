@@ -1,0 +1,7 @@
+opencv-python
+face_recognition
+Flask
+streamlit
+SQLAlchemy
+matplotlib
+plotly
